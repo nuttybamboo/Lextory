@@ -1,0 +1,18 @@
+
+%{
+
+//lalalallalalalallala;
+//I'am just joking...
+
+%}
+
+letter	(\$|[a-z]|_)(\$|[a-z]|[0-9]|_)* 
+
+%%
+
+if	{/*this is if*/}
+{letter}  {/*this is letter*/}
+
+%%
+
+//I don't know what to say...

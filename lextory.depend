@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1289721438 source:d:\programming\c++\lextory\main.cpp
+	<iostream>
+	"lextory.h"
+
+1289734596 d:\programming\c++\lextory\lextory.h
+	<fstream>
+	<iostream>
+	<map>
+
+1289721438 source:e:\xiejueweixiao\lextory\main.cpp
+	<iostream>
+	"lextory.h"
+
+1289974596 e:\xiejueweixiao\lextory\lextory.h
+	<fstream>
+	<iostream>
+	<map>
+	<vector>
+
+1290156733 source:c:\working\lextory\dfa_graph.c
+
+1290418153 source:c:\working\lextory\main.cpp
+	"lextory.h"
+
+1290393093 c:\working\lextory\reg_lexer.h
+	<map>
+	<set>
+	<iostream>
+	<fstream>
+
+1290423736 c:\working\lextory\dfa_graph.h
+	"reg_lexer.h"
+	<vector>
+
+1290421100 source:c:\working\lextory\reg_lexer.cpp
+	"reg_lexer.h"
+
+1290420929 source:c:\working\lextory\dfa_graph.cpp
+	<algorithm>
+	"dfa_graph.h"
+
+1290423735 c:\working\lextory\lextory.h
+	<set>
+	<fstream>
+	"dfa_graph.h"
+
